@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afe:home|Door43 (afe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afe|d43-afe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afe/archive/master.zip|d43-afe.zip]]
+
+**Recent Changes**
+{{changes>ns = afe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afe|Ethnologue data]]
+
